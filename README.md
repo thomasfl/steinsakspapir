@@ -1,8 +1,8 @@
-### Stein saks papir
+# Stein saks papir
 
 En web applikasjon for å spille stein saks papir.
 
-# Komme igang
+### Komme igang
 
 Innstaller ```node```, ```npm``` og ```yarn``` på maskinen, og kjør dette fra kommandolinjen:
 
@@ -13,5 +13,5 @@ Innstaller ```node```, ```npm``` og ```yarn``` på maskinen, og kjør dette fra 
 
 # Lisens
 
-MIT
-Skrevet av Thomas Flemming
+MIT lisens. Skrevet av Thomas Flemming 2018
+
